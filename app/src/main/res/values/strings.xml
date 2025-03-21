@@ -1,5 +1,12 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">Happy Birthday</string>
     <string name="happy_birthday_text">Happy Birthday Fabian!</string>
     <string name="signature_text">From Miguel</string>
+    <string name="roll">roll</string>
 </resources>
+=======
+    <string name="app_Fabian">Demo</string>
+    <string name="roll">Roll</string>
+</resources>
+>>>>>>> 885209e (PRACTICA DEMO)

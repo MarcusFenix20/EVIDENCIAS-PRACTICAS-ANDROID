@@ -19,6 +19,10 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
 rootProject.name = "Happy Birthday"
+=======
+rootProject.name = "Demo"
+>>>>>>> 885209e (PRACTICA DEMO)
 include(":app")
  
